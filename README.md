@@ -21,4 +21,8 @@ Se adjunta la respuesta de la api de la az function:
 
 ![image](https://github.com/user-attachments/assets/3f8e5f60-e48a-4b57-a82f-d4fb510bb225)
 
-Se adjunta 
+Se adjunta la información de la url de la az function:
+
+![image](https://github.com/user-attachments/assets/0da36457-37b8-463a-ae19-a4e3132076c7)
+
+
