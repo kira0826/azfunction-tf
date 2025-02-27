@@ -1,4 +1,4 @@
-##Práctica az function
+## Práctica az function
 
 Para la implementación de la AZ function fue necesario la instalación de herramientas como
 terraform  y azure CLI. Con esta última se puede obtener la suscripción necesaria para la 
@@ -13,4 +13,12 @@ name_function = "miknsteven"
 location      = "West Europe"
 
 ```
+Se adjunta el conjunto de servicios creados en az: 
 
+![image](https://github.com/user-attachments/assets/0609d71c-806d-4b89-954b-c65ffda432bc)
+
+Se adjunta la respuesta de la api de la az function:
+
+![image](https://github.com/user-attachments/assets/3f8e5f60-e48a-4b57-a82f-d4fb510bb225)
+
+Se adjunta 
