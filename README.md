@@ -25,4 +25,6 @@ Se adjunta la información de la url de la az function:
 
 ![image](https://github.com/user-attachments/assets/0da36457-37b8-463a-ae19-a4e3132076c7)
 
+Por último, se procede a eliminar los recursos creados con el comando ```terraform destroy```.
+![image](https://github.com/user-attachments/assets/2a065a13-9506-48dc-bdfd-aca98090a5d8)
 
